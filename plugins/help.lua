@@ -88,8 +88,7 @@ function run(msg, matches)
 تبدیل (text) به استیکر
 
 .......................................
-📡
-- @BeatBot_Team
+AMOUR_VIRUS
 .......................................]]
     if matches[1] == 'help' and is_sudo(msg) then
       send_large_msg("user#id"..msg.from.id, help)      
